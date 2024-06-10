@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gosego Otsweleng</h1>
-<h3 align="center">Fresh graduate with a passion for cybersecurity and web application security. Developer of a vulnerability assessment tool. Constantly learning and exploring new security techniques. Open to collaboration and opportunities in the cybersecurity domain.</h3>
+<h3 align="center">Fresh graduate with a passion for cybersecurity and web application security. Developer of a web application vulnerability assessment tool. Constantly learning and exploring new security techniques. Open to collaboration and opportunities in the cybersecurity domain.</h3>
 
 - 🌱 I’m currently learning **Web Application and Network Security techniques**
 
